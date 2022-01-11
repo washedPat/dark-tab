@@ -1,0 +1,11 @@
+{
+  "name": "Dark Tab",
+  "description": "the most elegant new tab. it's dark, no links, no ads. its just a dark tab.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["scripting"]
+}
+
